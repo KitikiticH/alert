@@ -1,0 +1,266 @@
+2026-06-15 04:25:07 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-15 04:27:05 > BrowserType.launch: Executable doesn't exist at C:\Users\KitikiticH\AppData\Local\ms-playwright\chromium_headless_shell-1223\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-06-15 04:28:53 > Bot.send_message() missing 1 required positional argument: 'text'
+2026-06-15 04:28:53 > Bot.send_message() missing 1 required positional argument: 'text'
+2026-06-15 04:29:46 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-15 04:29:46 > Bot.send_message() missing 1 required positional argument: 'chat_id'
+2026-06-15 04:30:17 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-15 04:30:17 > Bot.send_message() missing 1 required positional argument: 'self'
+2026-06-15 04:30:17 > Bot.send_message() missing 1 required positional argument: 'self'
+2026-06-15 04:30:17 > Bot.send_message() missing 1 required positional argument: 'self'
+2026-06-15 04:30:17 > Browser.close: Connection closed while reading from the driver
+2026-06-15 04:31:26 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-15 04:31:26 > Bot.send_message() missing 1 required positional argument: 'text'
+2026-06-15 04:31:26 > Bot.send_message() missing 1 required positional argument: 'text'
+2026-06-15 04:31:26 > Browser.close: Connection closed while reading from the driver
+2026-06-15 04:32:19 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-15 04:32:19 > Bot.send_message() missing 1 required positional argument: 'text'
+2026-06-15 04:32:19 > Bot.send_message() missing 1 required positional argument: 'text'
+2026-06-15 04:32:19 > Bot.send_message() missing 1 required positional argument: 'text'
+2026-06-15 04:32:19 > Bot.send_message() missing 1 required positional argument: 'text'
+2026-06-15 04:32:19 > Bot.send_message() missing 1 required positional argument: 'text'
+2026-06-15 04:32:19 > Bot.send_message() missing 1 required positional argument: 'text'
+2026-06-15 04:32:19 > Bot.send_message() missing 1 required positional argument: 'text'
+2026-06-15 04:32:19 > Browser.close: Connection closed while reading from the driver
+2026-06-15 04:33:55 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-15 04:33:55 > unhashable type: 'SendMessage'
+2026-06-15 04:33:55 > unhashable type: 'SendMessage'
+2026-06-15 04:33:55 > unhashable type: 'SendMessage'
+2026-06-15 04:33:55 > unhashable type: 'SendMessage'
+2026-06-15 04:33:55 > unhashable type: 'SendMessage'
+2026-06-15 04:33:55 > unhashable type: 'SendMessage'
+2026-06-15 04:33:55 > Browser.close: Connection closed while reading from the driver
+2026-06-15 04:35:30 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-15 04:35:30 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:35:30 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:35:30 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:35:30 > Browser.close: Connection closed while reading from the driver
+2026-06-15 04:35:30 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:35:30 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:35:30 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:35:30 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:35:30 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:37:22 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-15 04:37:22 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:37:22 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:37:22 > Browser.close: Connection closed while reading from the driver
+2026-06-15 04:37:22 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:37:22 > Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-06-15 04:38:17 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-15 04:38:17 > Browser.close: Connection closed while reading from the driver
+2026-06-16 00:47:53 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 00:47:53 > object Locator can't be used in 'await' expression
+2026-06-16 00:47:53 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 00:47:53 > object Locator can't be used in 'await' expression
+2026-06-16 00:47:53 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 00:53:58 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 00:59:46 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 00:59:46 > object Locator can't be used in 'await' expression
+2026-06-16 00:59:46 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 00:59:46 > Browser.close: Connection closed while reading from the driver
+2026-06-16 01:00:27 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 01:00:27 > Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"symbol-last-value\"]")
+
+2026-06-16 01:00:27 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 01:00:27 > Browser.close: Connection closed while reading from the driver
+2026-06-16 01:06:06 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 01:06:06 > Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"symbol-last\"]")
+
+2026-06-16 01:06:06 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 01:06:06 > Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"symbol-last\"]")
+
+2026-06-16 01:06:06 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 01:06:06 > Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"symbol-last\"]")
+
+2026-06-16 01:06:06 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 01:06:06 > Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"symbol-last\"]")
+
+2026-06-16 01:06:06 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 01:06:06 > Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"symbol-last\"]")
+
+2026-06-16 01:06:06 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 01:06:06 > Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"symbol-last\"]")
+
+2026-06-16 01:06:06 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 01:06:06 > Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"symbol-last\"]")
+
+2026-06-16 01:06:06 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 01:06:06 > Browser.close: Connection closed while reading from the driver
+2026-06-16 01:11:18 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 01:11:18 > Page.text_content: Unknown engine "class" while parsing selector class="last-fzcYMweq js-symbol-last"
+Call log:
+  - waiting for locator("class=\"last-fzcYMweq js-symbol-last\"")
+
+2026-06-16 01:11:18 > Произошла непредвиденная ошибка при получении цены TON
+2026-06-16 01:11:18 > Browser.close: Connection closed while reading from the driver
+2026-06-16 01:21:04 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 01:28:33 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,735$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,734$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,734$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,733$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,732$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,732$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,731$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,732$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,731$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,731$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,728$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,725$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,729$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,724$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,722$
+2026-06-16 01:28:33 > Цена TON зафиксирована на 1,723$
+2026-06-16 01:36:15 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 01:36:18 > Цена TON зафиксирована на 1,725$
+2026-06-16 01:36:33 > Цена TON зафиксирована на 1,726$
+2026-06-16 01:36:47 > Цена TON зафиксирована на 1,725$
+2026-06-16 01:37:02 > Цена TON зафиксирована на 1,724$
+2026-06-16 01:37:16 > Цена TON зафиксирована на 1,724$
+2026-06-16 01:37:30 > Цена TON зафиксирована на 1,724$
+2026-06-16 01:37:44 > Цена TON зафиксирована на 1,725$
+2026-06-16 01:37:58 > Цена TON зафиксирована на 1,724$
+2026-06-16 01:38:13 > Цена TON зафиксирована на 1,724$
+2026-06-16 01:38:28 > Цена TON зафиксирована на 1,725$
+2026-06-16 01:38:42 > Цена TON зафиксирована на 1,725$
+2026-06-16 01:38:56 > Цена TON зафиксирована на 1,725$
+2026-06-16 01:39:10 > Цена TON зафиксирована на 1,725$
+2026-06-16 01:39:25 > Цена TON зафиксирована на 1,722$
+2026-06-16 01:39:40 > Цена TON зафиксирована на 1,723$
+2026-06-16 01:39:54 > Цена TON зафиксирована на 1,723$
+2026-06-16 01:40:08 > Цена TON зафиксирована на 1,723$
+2026-06-16 01:40:23 > Цена TON зафиксирована на 1,722$
+2026-06-16 01:40:37 > Цена TON зафиксирована на 1,722$
+2026-06-16 01:40:52 > Цена TON зафиксирована на 1,724$
+2026-06-16 01:41:06 > Цена TON зафиксирована на 1,724$
+2026-06-16 01:41:21 > Цена TON зафиксирована на 1,723$
+2026-06-16 01:41:36 > Цена TON зафиксирована на 1,719$
+2026-06-16 01:41:50 > Цена TON зафиксирована на 1,717$
+2026-06-16 15:58:41 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 15:58:56 > Цена TON зафиксирована на 1,692$
+2026-06-16 16:00:00 > Цена TON зафиксирована на 1,692$
+2026-06-16 16:01:04 > Цена TON зафиксирована на 1,693$
+2026-06-16 16:02:07 > Цена TON зафиксирована на 1,692$
+2026-06-16 16:03:11 > Цена TON зафиксирована на 1,681$
+2026-06-16 16:04:15 > Цена TON зафиксирована на 1,679$
+2026-06-16 16:05:19 > Цена TON зафиксирована на 1,673$
+2026-06-16 16:06:22 > Цена TON зафиксирована на 1,668$
+2026-06-16 16:07:26 > Цена TON зафиксирована на 1,671$
+2026-06-16 16:08:29 > Цена TON зафиксирована на 1,672$
+2026-06-16 16:09:33 > Цена TON зафиксирована на 1,665$
+2026-06-16 16:10:37 > Цена TON зафиксирована на 1,666$
+2026-06-16 16:11:41 > Цена TON зафиксирована на 1,661$
+2026-06-16 16:12:44 > Цена TON зафиксирована на 1,667$
+2026-06-16 16:13:48 > Цена TON зафиксирована на 1,662$
+2026-06-16 16:14:51 > Цена TON зафиксирована на 1,664$
+2026-06-16 16:15:55 > Цена TON зафиксирована на 1,665$
+2026-06-16 16:16:59 > Цена TON зафиксирована на 1,666$
+2026-06-16 16:18:03 > Цена TON зафиксирована на 1,669$
+2026-06-16 16:19:07 > Цена TON зафиксирована на 1,667$
+2026-06-16 16:20:10 > Цена TON зафиксирована на 1,668$
+2026-06-16 16:21:14 > Цена TON зафиксирована на 1,666$
+2026-06-16 16:22:18 > Цена TON зафиксирована на 1,666$
+2026-06-16 16:23:22 > Цена TON зафиксирована на 1,665$
+2026-06-16 16:24:25 > Цена TON зафиксирована на 1,666$
+2026-06-16 16:25:29 > Цена TON зафиксирована на 1,667$
+2026-06-16 16:26:33 > Цена TON зафиксирована на 1,664$
+2026-06-16 16:27:36 > Цена TON зафиксирована на 1,664$
+2026-06-16 16:28:40 > Цена TON зафиксирована на 1,663$
+2026-06-16 16:29:43 > Цена TON зафиксирована на 1,663$
+2026-06-16 16:30:47 > Цена TON зафиксирована на 1,664$
+2026-06-16 16:38:31 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 16:38:38 > Цена TON зафиксирована на 1,664$
+2026-06-16 16:39:39 > Telegram server says - Bad Request: chat not found
+2026-06-16 16:40:39 > Telegram server says - Bad Request: chat not found
+2026-06-16 16:41:40 > Telegram server says - Bad Request: chat not found
+2026-06-16 16:42:40 > Telegram server says - Bad Request: chat not found
+2026-06-16 16:43:41 > Telegram server says - Bad Request: chat not found
+2026-06-16 16:44:42 > Telegram server says - Bad Request: chat not found
+2026-06-16 16:45:04 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-16 16:45:07 > Цена TON зафиксирована на 1,664$
+2026-06-16 16:46:08 > Цена TON зафиксирована на 1,667$
+2026-06-16 16:47:09 > Цена TON зафиксирована на 1,667$
+2026-06-16 16:48:09 > Цена TON зафиксирована на 1,665$
+2026-06-16 16:49:10 > Цена TON зафиксирована на 1,667$
+2026-06-16 16:50:10 > Цена TON зафиксирована на 1,668$
+2026-06-16 16:51:11 > Цена TON зафиксирована на 1,667$
+2026-06-16 16:52:12 > Цена TON зафиксирована на 1,665$
+2026-06-16 16:53:12 > Цена TON зафиксирована на 1,665$
+2026-06-16 16:54:13 > Цена TON зафиксирована на 1,664$
+2026-06-16 16:55:14 > Цена TON зафиксирована на 1,661$
+2026-06-16 16:56:15 > Цена TON зафиксирована на 1,662$
+2026-06-16 16:57:16 > Цена TON зафиксирована на 1,660$
+2026-06-16 16:58:17 > Цена TON зафиксирована на 1,659$
+2026-06-16 16:59:17 > Цена TON зафиксирована на 1,661$
+2026-06-16 17:00:18 > Цена TON зафиксирована на 1,662$
+2026-06-16 17:01:19 > Цена TON зафиксирована на 1,664$
+2026-06-16 17:02:20 > Цена TON зафиксирована на 1,664$
+2026-06-16 17:03:21 > Цена TON зафиксирована на 1,666$
+2026-06-16 17:04:21 > Цена TON зафиксирована на 1,667$
+2026-06-16 17:05:22 > Цена TON зафиксирована на 1,667$
+2026-06-16 17:06:23 > Цена TON зафиксирована на 1,666$
+2026-06-16 17:07:24 > Цена TON зафиксирована на 1,667$
+2026-06-16 17:08:24 > Цена TON зафиксирована на 1,663$
+2026-06-16 17:09:25 > Цена TON зафиксирована на 1,662$
+2026-06-16 17:10:26 > Цена TON зафиксирована на 1,667$
+2026-06-16 17:11:26 > Цена TON зафиксирована на 1,663$
+2026-06-16 17:12:26 > Цена TON зафиксирована на 1,662$
+2026-06-16 17:13:27 > Цена TON зафиксирована на 1,663$
+2026-06-16 17:14:27 > Цена TON зафиксирована на 1,658$
+2026-06-16 17:15:28 > Цена TON зафиксирована на 1,656$
+2026-06-16 17:16:29 > Цена TON зафиксирована на 1,653$
+2026-06-16 17:17:30 > Цена TON зафиксирована на 1,651$
+2026-06-16 17:18:30 > Цена TON зафиксирована на 1,643$
+2026-06-16 17:19:31 > Цена TON зафиксирована на 1,638$
+2026-06-16 17:20:32 > Цена TON зафиксирована на 1,641$
+2026-06-16 17:21:33 > Цена TON зафиксирована на 1,643$
+2026-06-16 17:22:33 > Цена TON зафиксирована на 1,640$
+2026-06-16 17:23:34 > Цена TON зафиксирована на 1,637$
+2026-06-16 17:24:34 > Цена TON зафиксирована на 1,636$
+2026-06-16 17:25:36 > Цена TON зафиксирована на 1,641$
+2026-06-16 17:26:36 > Цена TON зафиксирована на 1,639$
+2026-06-16 17:27:37 > Цена TON зафиксирована на 1,634$
+2026-06-16 17:28:38 > Цена TON зафиксирована на 1,637$
+2026-06-16 17:29:38 > Цена TON зафиксирована на 1,637$
+2026-06-16 17:30:39 > Цена TON зафиксирована на 1,632$
+2026-06-16 17:31:39 > Цена TON зафиксирована на 1,634$
+2026-06-16 17:32:40 > Цена TON зафиксирована на 1,629$
+2026-06-16 17:33:41 > Цена TON зафиксирована на 1,626$
+2026-06-16 17:34:41 > Цена TON зафиксирована на 1,629$
+2026-06-16 17:35:42 > Цена TON зафиксирована на 1,631$
+2026-06-16 17:36:43 > Цена TON зафиксирована на 1,630$
+2026-06-16 17:37:44 > Цена TON зафиксирована на 1,629$
+2026-06-16 17:38:44 > Цена TON зафиксирована на 1,629$
+2026-06-16 17:39:45 > Цена TON зафиксирована на 1,630$
+2026-06-16 17:40:45 > Цена TON зафиксирована на 1,632$
+2026-06-16 17:41:47 > Цена TON зафиксирована на 1,635$
+2026-06-16 17:42:47 > Цена TON зафиксирована на 1,637$
+2026-06-16 17:43:48 > Цена TON зафиксирована на 1,635$
+2026-06-16 17:44:49 > Цена TON зафиксирована на 1,634$
+2026-06-18 12:47:26 > TON CHECKER by KitikiticH успешно инициализирован
+2026-06-18 12:47:40 > Цена TON зафиксирована на 1,662$
+2026-06-18 12:48:42 > Цена TON зафиксирована на 1,660$
